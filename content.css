@@ -1,0 +1,55 @@
+.page {
+  width: 430px;
+  height: 700px;
+  background-color: #d3d0cb;
+  padding: 20px;
+}
+
+
+#article_title {
+  margin-top: 15px;
+  margin-bottom: 25px;
+  padding-left: 5px;
+  font-family: "Anton";
+  font-size: 38px;
+  letter-spacing: 6px;
+  color: #461220;
+  background-color: #a6bbff;
+  box-shadow: 10px 10px gray;
+}
+
+#intro {
+  font-family: "Oswald";
+  line-height: 45px;
+  font-size: 19px;
+  color: #8c2f39;
+  background-image: linear-gradient(to left, #bac0e2, #d3d0cb, #bac0e2);
+}
+
+.question{
+  font-family: "Raleway";
+  font-size: 15px;
+  color: #4C5760;
+  margin-bottom: 0px;
+  font-weight: bold;
+  margin-right: 40px;
+}
+
+.answer{
+  margin-top: 0px;
+  font-family: "Raleway";
+  color: #4C5760;
+}
+
+#block_quote {
+  font-family: "Oswald";
+  font-size: 20px;
+  color:#8c2f39;
+  padding-left: 6px;
+  margin-left: 94px;
+  margin-right: 100px;
+  border-left: 1.25px solid black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-shadow: 2px 2px gold;
+}
